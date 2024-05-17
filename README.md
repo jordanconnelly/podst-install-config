@@ -27,10 +27,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/ufs9DZo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Sign into osTicket using the Admin information created in the prerequisite stage. Confirm you are in the Admin panel at the top right of the page, if "Agent Panel" is displayed that means you are in the Admin panel. This is how you switch between Admin & Agent panels.
+<p>
+<img src="https://imgur.com/pN7NoHm.png" height="80%" width="40%"/>
+<img src="https://imgur.com/imbBSvS.png" height="80%" width="40%"/>
 <p>
 To configure roles, go to: Admin Panel > Agents > Roles. Add role. Name it and enable all ticket permissions.
+<p>
+<img src="https://imgur.com/5ZgRsnl.png" height="80%" width="40%"/>
+<img src="https://imgur.com/6N3dB8N.png" height="80%" width="40%"/>
+</p>
 </p>
 <br />
 
