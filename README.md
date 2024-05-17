@@ -49,12 +49,13 @@ Next, go to Admin Panel -> Agents -> Teams. Select "Add team". Name it "Level II
 </p>
 <img src="https://imgur.com/904v9kg.png" height="80%" width="60%">
 <img src="https://imgur.com/5ZUfS6t.png" height="80%" width="60%">
-<br />
+<p>
 </p>
 Go to Admin Panel -> Agents and click "Add new agent". Create name and email. Press the set password button. Deselect the "Send the agent a password reset" box and create a password. Deselect the "require password change" box and press "set".
-<p>
+
 <img src="https://imgur.com/Q2Z78Dn.png" height="80%" width="60%"/>
 <img src="https://imgur.com/qt3iZYO.png" height="80%" width="60%"/>
+<p>
 <p>
 Click on "Access" tab and select "System Administrators". Also select the department you created. In extended access below, select the department you created and add "support" department as well. Next, click on "teams" tab and select the team you created. Click "Create". Add another agent with limited permissions.
 </p>
@@ -62,20 +63,21 @@ Click on "Access" tab and select "System Administrators". Also select the depart
 <img src="https://imgur.com/oMRTTHn.png" height="80%" width="60%">
 <img src="https://imgur.com/MkjlVV7.png" height="80%" width="60%">
 <p>
-</o>
+<p>
 To create users, switch to Agent Panel > Users > and click on "Add user". Create name and email, click "Add User".
 <img src="https://imgur.com/buqOZQP.png" height="80%" width="60%">
 <img src="https://imgur.com/06aTuBE.png" height="80%" width="60%">
 </p>
 <p>
 Go to Admin Panel > Manage > SLA and click "add new SLA plan". Place these settings for Sev-A: (1 hour, 24/7). Sev-B will be (4 hours, 24/7) and Sev-C will be (8 hours, Monday - Friday).
-</p>
-<br />
-
 <p>
-<img src="https://i.imgur.com/sY9NZGT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://imgur.com/NzbHMRr.png" height="80%" width="60%">
+<img src="https://imgur.com/qzy4zoB.png" height="80%" width="60%">
 <p>
-  Go to Admin Panel > Manage > Help Topics and click "Add help topic". Title the first one "Business Critical Outage", the second "Personal Computer Issues", the third "Equipment Request", and lastly "Password Reset". Log into the user portal of osTicket at: http://localhost/osTicket/. Use a user you created to create tickets.
+<p>
+Go to Admin Panel > Manage > Help Topics and click "Add help topic". Title the first one "Business Critical Outage", the second "Personal Computer Issues", the third "Equipment Request", and lastly "Password Reset". You can also set the departments, priority, SLA plan, and other features associated with each type of Help Topic.
+<p>
+<img src="https://imgur.com/xu9JJdF.png" height="80%" width="60%">
+<img src="https://imgur.com/oAcWL10.png" height="80%" width="60%">
 </p>
 <br />
