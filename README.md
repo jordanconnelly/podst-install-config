@@ -32,32 +32,40 @@ Sign into osTicket using the Admin information created in the prerequisite stage
 <img src="https://imgur.com/pN7NoHm.png" height="80%" width="40%"/>
 <img src="https://imgur.com/imbBSvS.png" height="80%" width="40%"/>
 <p>
+</p>
 To configure roles, go to: Admin Panel > Agents > Roles. Add role. Name it and enable all ticket permissions.
 <p>
 <img src="https://imgur.com/5ZgRsnl.png" height="80%" width="40%"/>
 <img src="https://imgur.com/6N3dB8N.png" height="80%" width="40%"/>
 </p>
+<p>
+To create Departments, Go to Admin Panel > Agents > Departments, Name the department and select a manager. Click "Create Dept" at the bottom of the page.
 </p>
+<img src="https://imgur.com/L5dLBWM.png" height="80%" width="60%"/>
+<img src="https://imgur.com/7cdMcsX.png" height="80%" width="60%"/>
+<p>
+<p>
+Next, go to Admin Panel -> Agents -> Teams. Select "Add team". Name it "Level II Support" and add member by clicking on "Members" tab. Go to Admin Panel > Settings > User Settings to make sure the registration required box is not checked to allow anyone to create tickets.
+</p>
+<img src="https://imgur.com/904v9kg.png" height="80%" width="60%">
+<img src="https://imgur.com/5ZUfS6t.png" height="80%" width="60%">
 <br />
-
-<p>
-<img src="https://i.imgur.com/2CTnRRu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+Go to Admin Panel -> Agents and click "Add new agent". Create name and email. Press the set password button. Deselect the "Send the agent a password reset" box and create a password. Deselect the "require password change" box and press "set".
 <p>
-Go to Admin Panel > Agents > Departments, Name the department and select a manager. Click "Creat Dept". Next, go to Admin Panel -> Agents -> Teams. Select "Add team". Name it "Level II Support" and add member by clicking on "Members" tab. Go to Admin Panel > Settings > User Settings to make sure that the registration required box is not checked.
+<img src="https://imgur.com/Q2Z78Dn.png" height="80%" width="60%"/>
+<img src="https://imgur.com/qt3iZYO.png" height="80%" width="60%"/>
+<p>
+Click on "Access" tab and select "System Administrators". Also select the department you created. In extended access below, select the department you created and add "support" department as well. Next, click on "teams" tab and select the team you created. Click "Create". Add another agent with limited permissions.
 </p>
-<br />
-
+<img src="https://imgur.com/uLRAzBv.png" height="80%" width="60%">
+<img src="https://imgur.com/oMRTTHn.png" height="80%" width="60%">
+<img src="https://imgur.com/MkjlVV7.png" height="80%" width="60%">
 <p>
-<img src="https://i.imgur.com/OIsYUDw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Go to Admin Panel -> Agents and click "Add new agent". Create name and email. Press the set password button. Deselect the "Send the agent a password reset" box and create a password. Deselect the "require password change" box and press "set". Click on "Access" tab and select "System Administrators". Also select the department you created. In extended access below, select the department you created and add "support" department as well. Next, click on "teams" tab and select the team you created. Click "Create". Add another agent with limited permissions. To create users, go to Agent Panel > Users > and click on "Add user". Create name, email and password. Click "Add User".
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/rVfrerR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</o>
+To create users, switch to Agent Panel > Users > and click on "Add user". Create name and email, click "Add User".
+<img src="https://imgur.com/buqOZQP.png" height="80%" width="60%">
+<img src="https://imgur.com/06aTuBE.png" height="80%" width="60%">
 </p>
 <p>
 Go to Admin Panel > Manage > SLA and click "add new SLA plan". Place these settings for Sev-A: (1 hour, 24/7). Sev-B will be (4 hours, 24/7) and Sev-C will be (8 hours, Monday - Friday).
