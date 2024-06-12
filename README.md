@@ -82,3 +82,4 @@ Go to Admin Panel > Manage > Help Topics and click "Add help topic". Title the f
 <img src="https://imgur.com/oAcWL10.png" height="80%" width="60%">
 </p>
 <br />
+Please proceed to https://github.com/jordanconnelly/ticket-lifestyle to view the implementation of this ticketing system.
